@@ -1,7 +1,7 @@
 # ProjSprint1 DAW
 
 ## LOG IN
-![](<ProjSprint1/log in.png>)
+![c](<ProjSprint1/log in.png>)
 Una pàgina de login, on per accedir s'haurà d'introduir l'email i la contrasenya. També hi haurà un enllaç per si es perd la contrasenya.
 
 ## CONTRASENYA OBLIDADA
