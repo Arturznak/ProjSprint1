@@ -14,7 +14,7 @@ Apartat d'entrada on, un cop iniciem sessió, apareixen les notificacions diàri
 
 ## ASSISTÈNICA PROFE
 ![](ProjSprint1/Assistencia profe.png)
-A l'apartat d'Assistència profe, es mostra com veuria aquest apartat el professor. Hi tindria uns menús desplegables per consultar l'assistència d'un alumne per nom, data, aula o grup. També disposaria d'un filtre per veure específicament els retards, les faltes o les assistències de l'alumne. A més, hi hauria dos botons per passar llista o modificar-la.
+A l'apartat d'Assistència profe, es mostrsa com veuria aquest apartat el professor. Hi tindria uns menús desplegables per consultar l'assistència d'un alumne per nom, data, aula o grup. També disposaria d'un filtre per veure específicament els retards, les faltes o les assistències de l'alumne. A més, hi hauria dos botons per passar llista o modificar-la.
 
 ## PASSAR LLISTA, PROFE 
 ![](ProjSprint1/passar llista profe.png)
@@ -45,5 +45,5 @@ A l'apartat perfil trobem tota l'informació de l'usuari. També hi ha un enlla�
 A l'apartat edita usuari tenim totes les dades en una casella la qual podem editar per si trobem algun error. Al costat també podem modificar la foto que tenim pujant-la a la casella. Aquestes modificacions es farien nomès si es clica el botó actualitza.
 
 ## LOG OUT
-![](ProjSprint1/log out.pngs)
+![](ProjSprint1/log out.png)
 Per úlitm, trobem l'apartat log out, on, al clicar el botó log out apareixeria una alerta per confirmar si volem sortir del compte, amb dos botons: de cancel·lar i acceptar, on donant-li a acceptar es sortiria del compte.
