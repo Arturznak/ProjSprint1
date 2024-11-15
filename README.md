@@ -71,33 +71,41 @@ perfil i log out a ambdós casos seguiex igual.
 ## ASSISTÈNCIA
 A l'assistència tambe he fet funcional com a exemple un filtre, on tots faríen el mateix treball.
 La pàgina original d'assistència quedaria igual el canvi vindria aqui:
+
 ![](FiltreAssistencia.png)
 ![](FiltreAssistenciaAssistit.png)
 ![](FiltreAssistenciaRetard.png)
 ![](FiltreAssistenciaAbsencia.png)
-El filtre disposarà de tres opcions, amb Assistit, Retard i Absència on és podra veure quan un alumne a faltat a clase, a arribat tard o a vingut, això també amb l'ajuda delS altres filtres on podriem veure-ho exactament.
+
+El filtre disposarà de tres opcions, amb Assistit, Retard i Absència on és podra veure quan un alumne a faltat a clase, a arribat tard o a vingut, això també amb l'ajuda dels altres filtres on podriem veure-ho exactament.
 
 ## HORARI
-Al horari els canvis també serien per fer funcionals els filtres per a poder buscar un horari:
+A l'horari els canvis també serien per fer funcionals els filtres per a poder buscar un horari:
+
 ![](FiltreHorari.png)
 ![](FiltrehorariGrup.png)
 ![](FiltreHorariGrupAula.png)
-El filtres ens ajudaran a buscar l'aula i el grup en concret per poder buscar el horari que volem.
+
+Els filtres ens ajudaran a buscar l'aula i el grup en concret per poder buscar el horari que volem.
 
 
 ## PROFESSOR: A partir d'aquí començare amb les modificacions del professor.
 
 ## ASSITÈNCIA:
 A la part d'assistència del porfessor la funcionalitat de passar llista i modificar la llista segueix sent igual, els canvis fets són també per la part de filtres que tendrien la mateixa funcionalitat que a la part d'alumnes.
+
 ![](FiltreAssitenciaPorfe.png)
 ![](FiltreAssitenciaPorfeAssistits.png)
+
 Aquí els filtres ajudarien a veure al professor quan han vingut, arribat trad o no han vingut els alumnes, tan mateix el filtre funciona amb retard i absència com a l'apartat dels alumnes.
 
 ## HORARI:
 A la part de l'horari del professor he afegit els filtres com a l'apartat del alumens i també l'opció d'afegir un horari:
+
 ![](AfegirHorariProfe.png)
 ![](FiltreHorariAulaProfe.png)
 ![](FiltreHorariAulaGrupProfe.png)
+
 Aquí la modificació d'afegir un horari permetrà al porfessor afegir un horari al grup i aula corresponent i els filtres per buscar un horari segueixen tenint la mateixa funcionalitat que a la dels alumnes.
 
 # GUIA D'ESTILS SPRITN2 DAW
@@ -105,15 +113,20 @@ A la guia d'estils he afegit, els logos que farém servir, la paleta de colors i
 
 ## LOGOS
 Començarem pels logos:
+
 ![](Guiaestilslogo.png)
 ![](Guiaestilslogofosc.png)
+
 He posat dos opcions de logos on un servirà per quan treballem amb la versió original i l'altre per a la versió fosca, també de cada logo he fet dos versions, el vertical que és farà servir per a la part del logo i contrasenya oblidada i l'horizontal per posar-la a cada apartat de la web.
 
 ## PALETA DE COLORS
 Seguidament tenim la paleta de colors:
+
 ![](Guiaestilspaletacolors.png)
+
 La paleta de colors l'he fet veient els colors que utilitzem a la web.
 
 ## TIPOGRAFÍA 
 ![](Guiaestilstipografia.png)
+
 Tan mateix amb la tipografía, he posat els diferents tipus de fonts utlitzats(veient a Google fonts si estàn).
